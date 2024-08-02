@@ -345,6 +345,11 @@ a:active {
     background: var(--color-primary);
 }
 
+.button-primary:hover {
+    color: var(--color-primary);
+    background: var(--color-white);
+}
+
 /* Helpers
       ============================= */
 
