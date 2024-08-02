@@ -1042,7 +1042,7 @@ textarea:valid:not(:placeholder-shown) {
 .form-search input[type="search"]:focus {
     position: relative;
     width: 15rem;
-    z-index: 1rem;
+    z-index: 1;
     border-bottom: .1rem solid var(--color-grey);
     padding: 0;
     cursor: text;
